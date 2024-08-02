@@ -128,6 +128,7 @@ Verify that all the pods are up and running:
 
 ```
 kubectl get pods --all-namespaces
+kubectl get pods -A
 ```
 
 ## Join Nodes
